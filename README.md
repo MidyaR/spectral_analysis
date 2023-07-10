@@ -9,6 +9,7 @@ by these spectral indices:
 RUN
 ----------
 For Run the code just use spectral.ipynb file
+
 Bands of Sentinel2 MSI
 ----------
             
