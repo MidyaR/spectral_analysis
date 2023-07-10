@@ -5,7 +5,10 @@ by these spectral indices:
 1. NBR
 2. NBRp
 3. NDVI
- 
+  
+RUN
+----------
+For Run the code just use spectral.ipynb file
 Bands of Sentinel2 MSI
 ----------
             
