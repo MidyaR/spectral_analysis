@@ -1,14 +1,14 @@
-# Information
+Information
 ----------
 this code performs spectral analysis on Sentinel-2 satellite imagery for fire and scar detection
 by these spectral indices:
 1. NBR
 2. NBRp
 3. NDVI
-
-
-               Bands of Sentinel2 MSI
-
+ 
+Bands of Sentinel2 MSI
+----------
+            
     i    Bands      Band Name                C-Wavelength(µm)
 
     0    B1         Coastal Aerosol          0.443 
@@ -23,6 +23,7 @@ by these spectral indices:
     9    B10        Water vapor              0.945
     10   B11        SWIR                     1.610
     11   B12        SWIR                     2.190
+
 
 
 Authors
