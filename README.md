@@ -45,7 +45,7 @@ midyalab[at]gmail[dot]com
 
 Authors Website 
 ----------
-[https://github.com/MidyaR/sectral_analysis](https://github.com/MidyaR/spectral_analysis)https://github.com/MidyaR/spectral_analysis
+[https://github.com/MidyaR/sectral_analysis](https://github.com/MidyaR/spectral_analysis)
 
-[https://www.linkedin.com/in/midya-rostami/](https://www.linkedin.com/in/midya-rostami)https://www.linkedin.com/in/midya-rostami/
+[https://www.linkedin.com/in/midya-rostami/](https://www.linkedin.com/in/midya-rostami) 
 
